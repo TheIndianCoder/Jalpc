@@ -12,7 +12,7 @@ img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Amrit Preet Singh  # Be used at blog posts' author.
-  first_name: Amrit P  # Be used at index page about me section.
+  first_name: Amrit Preet  # Be used at index page about me section.
   last_name: Singh  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: TheIndianCoder  # Leave blank if you don't have now
