@@ -1,18 +1,5 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name:
-    detail: Class Represetative
-    i18n: company_a
-  desc:
-    detail: Elected unanimously by 122 students
-    i18n: company_a_desc
-  date:
-    detail: Sept. 2018
-    i18n: company_a_date
-  job:
-    detail:
-    i18n: company_a_job
-  icon: fa-plus-square
 
 - name:
     detail: ACM-CSS PEC 
@@ -27,3 +14,35 @@
     detail:
     i18n: company_b_job
   icon: fa-plus-square
+
+- name:
+    detail: Class Represetative
+    i18n: company_a
+  desc:
+    detail: Elected unanimously by 122 students
+    i18n: company_a_desc
+  date:
+    detail: Sept. 2018
+    i18n: company_a_date
+  job:
+    detail:
+    i18n: company_a_job
+  icon: fa-plus-square
+  
+  
+
+- name:
+    detail: Research Intern
+    i18n: company_a
+  desc:
+    detail: Multimodal Brain Tumour Segmentation Project
+    i18n: company_a_desc
+  date:
+    detail: Sept. 2018
+    i18n: company_a_date
+  job:
+    detail:
+    i18n: company_a_job
+  icon: fa-plus-square
+    
+  
